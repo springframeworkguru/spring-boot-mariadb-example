@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guru.springframework</groupId>
-	<artifactId>spring-boot-mysql</artifactId>
+	<artifactId>spring-boot-mariadb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-mysql</name>
-	<description>Demo project for Spring Boot and MySQL</description>
+	<name>spring-boot-mariadb</name>
+	<description>Demo project for Spring Boot and MariaDB</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
